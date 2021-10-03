@@ -172,7 +172,7 @@ html, body{
         list-style-type:none;
         display: inline;
         background-color: #dbdaaa;
-        
+        vertical-align: top;
     }
     #body p { 
         font-size: 200%;
